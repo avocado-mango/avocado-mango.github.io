@@ -1,0 +1,85 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display&display=swap');
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+.hero{
+position: -webkit-sticky; /* Safari */
+  position: sticky;
+  background-color: white;
+  top: 0;
+  z-index: 1000;
+}
+
+#section{
+  background: white;
+}
+
+
+
+.hero-body {
+  color: #06C755;
+}
+.hero-foot {
+  color: #06C755;
+}
+
+
+.title {
+  text-align:left;
+  color: black;
+  font-size: xxx-large;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+.subtitle {
+  text-align: left;
+  color: black;
+  font-size: medium;
+}
+.container{
+color: #020100;
+
+}
+
+#projects {
+  color:#020100;
+  font-size:medium;
+  margin-left:16px;
+}
+
+#coding {
+  color:#020100;
+  font-size:medium;
+  margin-left:16px;
+}
+#funnn {
+  color:#020100;
+  font-size:medium;
+  margin-left:16px;
+}
+
+li {
+  font-weight:bold;
+  color: #020100;
+
+}
+
+a {
+  color: #020100;
+
+}
+
+a:active {
+  color:#06C755;
+}
+
+h1 {
+  color: #020100;
+}
+
+.line{
+  color:#020100;
+}
