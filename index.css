@@ -68,12 +68,17 @@ li {
 }
 
 a {
-  color: #020100;
+  color: cadetblue;
 
 }
 
 a:active {
   color:#06C755;
+}
+
+a:hover {
+  color: #06C755;
+
 }
 
 h1 {
