@@ -7,14 +7,17 @@ html {
   scroll-behavior: smooth;
 }
 
+section {
+    background-color: #FCFCF8;
+}
+
 div {
     margin:8px;
     padding:16px;
 }
 
 img {
-    padding: 8px;
-    margin:8px;
+
 }
 
 h1 {
@@ -34,7 +37,7 @@ p {
 #navigation{
   position: -webkit-sticky; /* Safari */
   position: sticky;
-  background-color: #FAFFFD;
+    background-color:white;
   top: 0;
   z-index: 1000;
     font-family:Ubuntu;
