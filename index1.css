@@ -7,8 +7,12 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+    text-decoration-color: #403D46;
+}
+
 section {
-    background-color: #FCFCF8;
+    background-color: rgba(252, 247, 238, 0.3);
 }
 
 div {
