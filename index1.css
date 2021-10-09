@@ -7,10 +7,9 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-    margin:16px;
-    padding:32px;
-
+div {
+    margin:8px;
+    padding:16px;
 }
 
 img {
@@ -35,7 +34,7 @@ p {
 #navigation{
   position: -webkit-sticky; /* Safari */
   position: sticky;
-  background-color: white;
+  background-color: #FAFFFD;
   top: 0;
   z-index: 1000;
     font-family:Ubuntu;
